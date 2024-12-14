@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+
+# Excel temporary files
+~$*.xlsx 
